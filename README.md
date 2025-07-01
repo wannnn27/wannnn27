@@ -2,7 +2,11 @@
 
 ![Adi Arwan Syah](img/github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=This+is+my+GitHub+profile;I'm+a+passionate+developer;Welcome+to+my+repositories!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=This+is+my+GitHub+profile)](https://git.io/typing-svg)
+
+</div>
 
 <h2 align="left">Tech Stack</h2>
 
